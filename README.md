@@ -1,5 +1,6 @@
 # Mock2309_team01_FrontEnd
 
+//Nhân bản từ git về máy
 git clone link.git
 
 git checkout -b newBranchName
