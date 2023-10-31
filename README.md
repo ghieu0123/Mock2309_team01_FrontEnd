@@ -1,9 +1,9 @@
 # Mock2309_team01_FrontEnd
 
-//Nhân bản từ git về máy
+//Nhân bản từ git về máy: kéo kho lưu trữ source code của dự án về máy
 git clone link.git
 
-//tạo 1 nhánh mới ví dụ như develop. Không làm việc trên nhánh main.
+//tạo 1 nhánh mới ví dụ như develop. Không làm việc trên nhánh main. main -> develop
 //AI làm nhánh nào thì tạo nhánh ví dụ: develop_Hieu
 git checkout -b newBranchName
 
