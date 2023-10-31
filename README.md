@@ -13,6 +13,7 @@ git status		  		 // check changes
 git add . 		  		 // git add folder/file.java
 git commit -m "message"  //version on local
 git push 		  //git push -u origin master    create & push branch
+git push origin develop
 
 // merging: Muốn ghép nhánh
 git checkout develop
