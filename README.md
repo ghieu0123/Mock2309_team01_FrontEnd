@@ -3,6 +3,8 @@
 //Nhân bản từ git về máy
 git clone link.git
 
+//tạo 1 nhánh mới ví dụ như develop. Không làm việc trên nhánh main.
+//AI làm nhánh nào thì tạo nhánh ví dụ: develop_Hieu
 git checkout -b newBranchName
 
 // coding
